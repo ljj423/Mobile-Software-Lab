@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "口述校史",
+    "navigationBarBackgroundColor": "#8888EE"
+  }
+}
